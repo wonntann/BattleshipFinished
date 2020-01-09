@@ -1,0 +1,28 @@
+#game{
+text-align: center !important;
+width: 46rem;
+height: 30rem;
+margin: auto;
+}
+#player{
+width: 20rem;
+height: 20rem;
+display: inline-block;
+}
+#computer{
+width: 20rem;
+height: 20rem;
+float: right;
+}
+.textdiv{
+width: 50%;
+height: 2.5rem;
+float: left;
+}
+.gridsquare{
+width: 2rem;
+height:2rem;
+float: left;
+border: .01rem solid black;
+background-color: #1ad1ff;
+}
