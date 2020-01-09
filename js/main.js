@@ -62,8 +62,8 @@ $(function(){
                 this.sunk = true;
                 return true;
             }
-            this.place();
-        }
+//             this.place();
+//         }
 
         function drawBoard(board, player){
             for (var i = 0; i< board.length; i++){
